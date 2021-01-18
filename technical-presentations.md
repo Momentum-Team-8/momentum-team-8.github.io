@@ -4,9 +4,9 @@ permalink: /presentations/
 layout: default
 ---
 
-# Team Six Technical Presentations
+# Team Seven Technical Presentations
 
-- Phase 1: _Thursday, December 3, 2020, at 1:00 pm_
+- Phase 1: _Thursday, February 11, 2021_
 
 Each student will give a short technical presentation about a project that they worked on during the previous weeks of the phase.
 

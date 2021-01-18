@@ -9,22 +9,20 @@ layout: default
 - [Student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md)
 - [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
 - [Slack community guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit)
-- [Orientation Slides](https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A527bb4af-5812-4c4a-9e2f-93566461331f#pageNum=1)
+- [Orientation Slides]()
 
 ## Zoom
 
-- [Zoom classroom & Coworking for Phase 2](https://us02web.zoom.us/j/87666609749?pwd=bkdVSEFTcmFnQWxNWVprZ2N2bnJhZz09)
-Meeting ID: 876 6660 9749
-Passcode: 682861
+- [Zoom classroom & Coworking for Phase 1]()
 - [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) -- Our virtual shared space, open to students on all teams in every phase
   - Meeting ID: 705 824 048
   - Passcode: 573244
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-team-6) -- all your assignment repos are located here
-  - [code examples from class](https://github.com/momentum-team-6/examples)
-  - [notes/slides from class](https://github.com/momentum-team-6/notes)
+- [Class GitHub organization](https://github.com/momentum-team-7) -- all your assignment repos are located here
+  - [code examples from class](https://github.com/momentum-team-7/examples)
+  - [notes/slides from class](https://github.com/momentum-team-7/notes)
 
 ## General References
 

@@ -42,10 +42,9 @@ You can reach out to us on Slack by using an `@` symbol followed by our name in 
 
 The instructional team is:
 
+- Rebecca Conley
 - Amy Gori
 - Clinton Dreisbach
-- Rebecca Conley
-- Mari Edwards
 
 Instructors are also available to meet with you on Zoom during lab times, individually, in groups, or in the co-working Zoom.
 
@@ -88,6 +87,4 @@ Each student chooses to learn more deeply in either front-end or back-end topics
 
 ### Phase 4: Agile Development
 
-Students work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You'll be working independently under the close supervision of your instructor to meet tight deadlines. To graduate, you will present your project to members of the local tech community.
-
-
+Students work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You'll be working independently under the close supervision of your instructor to meet tight deadlines. To graduate, you will present your project to a panel of members of the local tech community.

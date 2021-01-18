@@ -12,20 +12,16 @@ tags: phase-1 orientation command-line git github
   - Using the command line
   - Git & GitHub
 
-### ✅ TODO today
+## ✅ TODO today
 
 1. Read the [student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md) and [how we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md) docs in their entirety.
 2. Make sure your computer is [all set up and ready to go](https://github.com/momentumlearn/student-resources/blob/master/articles/setup.md).
 3. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
 4. Read the [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n).
 5. Complete the Git-It tutorial (below) and [submit the form](https://forms.gle/hKL37abHZ7TEoyWT6).
-6. In this [Google Document](https://docs.google.com/document/d/1f3HRylDSlw2fnkqLjC8_GjWIc0laXKnYVCMnDtAU6F4/edit?usp=sharing), record your answers to these questions:
-   - What would make this team and classroom a good space for learning for you?
-   - What would make this a safe and respectful place to work in?
 
-  We'll review what everyone has written, and once we are in agreement, this document will become our team charter.
 
-### 💻 Today's Project: Git It
+## 💻 Today's Project: Git It
 
 Complete [Git-It](https://github.com/jlord/git-it-electron), a tutorial program that will walk you through the basics of Git and GitHub.
 
@@ -40,14 +36,13 @@ The first time you run Git-it, you may get a notice that the application is from
 
 Once the application is running, read the instructions and complete the tasks in Git-it. Completion of the assignment is the link to the pull request that you will make in the second-to-last Git-It task.
 
-It should look similar to this, with a different number at the end: `https://github.com/jlord/patchwork/pull/37062`
+Your link should look similar to this, with a different number at the end: `https://github.com/jlord/patchwork/pull/37062`
 
-[Submit your pull request url using this form](https://forms.gle/hKL37abHZ7TEoyWT6).
+[Submit the link to your pull request url using this form](https://forms.gle/hKL37abHZ7TEoyWT6).
 
+## 🔖 Resources
 
-### 🔖 Resources
-
-#### First Day Orientation and Setup
+### First Day Orientation and Setup
 
 - [Student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md)
 - [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
@@ -55,7 +50,7 @@ It should look similar to this, with a different number at the end: `https://git
 - [Momentum Slack guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit)
 - [Setting up your computer](https://github.com/momentumlearn/student-resources/blob/master/articles/setup.md)
 
-#### Command Line & Git References
+### Command Line & Git References
 
 - [Really friendly command-line intro](https://drive.google.com/file/d/1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb/view?usp=sharing)
 - [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n)
@@ -63,9 +58,7 @@ It should look similar to this, with a different number at the end: `https://git
 - [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git Command Explorer](https://gitexplorer.com/) -- this tool lets you look up commands by what you are trying to do
 
-### Notes & Video from class
+## 🦉 Code, Notes & Videos
 
-- [command line notes](https://github.com/momentum-team-6/notes/blob/main/command-line.md)
-- [git notes](https://github.com/momentum-team-6/notes/blob/main/git.md)
-- [Morning video](https://us02web.zoom.us/rec/share/9xFsna1lVPa8jav15ad1vCXB-hrxvOPvpjEm5vrbX28kGX1HDPIaRpedfNaGV_d-.0u8oV85F34NUdz9I) Access Passcode: 6W6W^51H
-- [Afternoon video](https://us02web.zoom.us/rec/share/5tQmj4xD-548BdzWvrBpJ9m_gZWSOtpGoXNmhBP7LR_SfB4b6BzhPjzLvc_r2bkK.0rVGyp8nKb8KMSta) Access Passcode: 0A8%3&Pi
+- [command line notes](https://github.com/momentum-team-7/notes/blob/main/command-line.md)
+- [git notes](https://github.com/momentum-team-7/notes/blob/main/git.md)
