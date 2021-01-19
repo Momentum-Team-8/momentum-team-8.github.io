@@ -26,7 +26,7 @@ tags: phase-1 orientation command-line git github
 Complete [Git-It](https://github.com/jlord/git-it-electron), a tutorial program that will walk you through the basics of Git and GitHub.
 
 To install it, run:
-`brew cask install git-it`
+`brew install --cask git-it`
 
 This should put the Git-it program in your `/Applications` folder.
 
