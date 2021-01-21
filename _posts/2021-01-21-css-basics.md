@@ -47,3 +47,4 @@ This assignment is due on **Monday, January 25**, at 9:30 am.
 ## 🦉 Code, Notes, & Videos from class
 
 - [CSS Basics notes](https://github.com/momentum-team-7/notes/blob/main/css.md)
+- [Garden Store site with css example](https://github.com/momentum-team-7/examples/tree/main/garden-store-css)
