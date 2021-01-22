@@ -80,3 +80,4 @@ Before we had flexbox or grid built into CSS, we relied on floats for layout. Yo
 
 - [Notes on CSS Layout](https://github.com/momentum-team-7/notes/blob/main/css-layout.md)
 - [Flexbox example](https://github.com/momentum-team-7/examples/tree/main/css-flexbox)
+- [Morning video](https://us02web.zoom.us/rec/share/kHXQEHjN7W2L3pI4UYLNm_SFVUWttirxiA0k9kk64ApIrnP8kb1Rqu5Rsk1HanDC.G6uO0NNQE09neEGa) Passcode: 1PSB&9?N
