@@ -48,3 +48,4 @@ If you would like to know more about the JavaScript Event Loop and how it works,
 ## 🦉 Code, Notes & Video
 
 - [JS and the DOM notes](https://github.com/momentum-team-7/notes/blob/main/js-and-the-dom.md)
+- [CODE: DOM manipulation example](https://github.com/momentum-team-7/examples/tree/main/dom-manipulation) -- based on what we did in class this morning, with more examples added
