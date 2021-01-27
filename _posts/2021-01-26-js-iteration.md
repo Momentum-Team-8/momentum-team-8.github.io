@@ -31,3 +31,7 @@ tags: phase-1 javascript js arrays
 ## 🦉 Code, Notes & Video
 
 - [JavaScript Arrays notes](https://github.com/momentum-team-7/notes/blob/main/js-arrays.md)
+- [Rebecca's video on variables](https://vimeo.com/showcase/7220986/video/426872305)
+- [Rebecca's video on types](https://vimeo.com/showcase/7220986/video/426872279)
+- [Rebecca's video on functions](https://vimeo.com/showcase/7220986/video/426872241)
+
