@@ -29,3 +29,6 @@ tags: phase-1 javascript js objects
 ## 🦉 Code, Notes & Videos
 
 - [notes on js objects](https://github.com/momentum-team-7/notes/blob/main/js-objects.md)
+- [Morning Video](https://us02web.zoom.us/rec/share/Xlka8Mg23juHyXRrhT0txIUzs8xLakpY-igXQwcU1sQwViYI7FuTCV7AlBazVKKc.Dt0JRCZsRxHVX8M-)
+
+Access Passcode: 7!%^p0C8
