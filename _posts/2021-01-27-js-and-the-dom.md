@@ -49,3 +49,6 @@ If you would like to know more about the JavaScript Event Loop and how it works,
 
 - [JS and the DOM notes](https://github.com/momentum-team-7/notes/blob/main/js-and-the-dom.md)
 - [CODE: DOM manipulation example](https://github.com/momentum-team-7/examples/tree/main/dom-manipulation) -- based on what we did in class this morning, with more examples added
+- [Morning Video](https://us02web.zoom.us/rec/share/kqwk5YU_z7xrrDBIydEJF9wTjMgimCsOA1lm567oQqMaBECy6M-h9K40RA3v0_Ua.DRrQ3Hn10UYgm9b7)
+
+Access Passcode: 77A*rATn
