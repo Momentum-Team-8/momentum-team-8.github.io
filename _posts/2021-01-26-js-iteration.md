@@ -34,4 +34,7 @@ tags: phase-1 javascript js arrays
 - [Rebecca's video on variables](https://vimeo.com/showcase/7220986/video/426872305)
 - [Rebecca's video on types](https://vimeo.com/showcase/7220986/video/426872279)
 - [Rebecca's video on functions](https://vimeo.com/showcase/7220986/video/426872241)
+- [Morning Video](https://us02web.zoom.us/rec/share/b0ZyoLDbSpJ5q-UaCk-GaXwadvGh6XXq7lbVzRM0b0e3VpM5SWI9yMAViS23eXUO.dgPxmeISl31UW1cY)
+
+Access Passcode: R4u3T?E.
 
