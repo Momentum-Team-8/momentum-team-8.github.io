@@ -48,3 +48,6 @@ This assignment is due on **Monday, January 25**, at 9:30 am.
 
 - [CSS Basics notes](https://github.com/momentum-team-7/notes/blob/main/css.md)
 - [Garden Store site with css example](https://github.com/momentum-team-7/examples/tree/main/garden-store-css)
+- [Morning Video](https://us02web.zoom.us/rec/share/fBfuGGC85RF7Ps-xtZWQkSeSbTLtPxNNdsRwwGgN_g6KL0mPgttfMKrdLfPjPy2F.o-wRhg3OKlOn_ULO)
+
+Access Passcode: ?6RE@Rmy
