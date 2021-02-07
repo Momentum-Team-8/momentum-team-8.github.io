@@ -6,7 +6,7 @@ layout: default
 
 # Team Seven Technical Presentations
 
-- Phase 1: _Thursday, February 11, 2021_
+- Phase 1: _Thursday, February 11, 2021_ 2:00 pm
 
 Each student will give a short technical presentation about a project that they worked on during the previous weeks of the phase.
 
@@ -27,7 +27,7 @@ Choose a project that you've done that shows what you learned during the phase.
   - _Complete_ means that every feature you started to implement is finished. You may not have gotten to absolutely everything specified in the assignment, but the project is working.
   - _Without errors_ means that nothing in the project is broken.
 
-- For Phase 1, the project must include JavaScript, so you can choose anything from week 2 on.
+- **For Phase 1**, the project must include JavaScript, so you can choose anything from week 2 on.
 
 - The size of the project is not important. You should choose a project that you liked doing and that you are excited to talk about.
 
