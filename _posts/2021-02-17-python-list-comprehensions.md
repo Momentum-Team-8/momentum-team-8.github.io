@@ -24,6 +24,7 @@ OR
 
 ### 📹 Code, Slides, and Video from Class
 
+* [Notes] (https://github.com/momentum-team-7/notes/blob/main/python-virtual-environments.md)
 * [Code](https://github.com/momentum-team-7/examples/tree/main/py-dice-game)
 * [Morning Class Recording](https://us02web.zoom.us/rec/share/iB1feaxriqhDDmHt81r2CuA2StSZiDd6Esi9_Yo2Ku1mBYv63LFNKOPkbAdyZYOk.XwGjg0WO0XGihwRr)
 Access Passcode: unb?pO1*

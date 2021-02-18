@@ -25,6 +25,7 @@ tags: phase-2 python
 
 ### 📹 Code, Slides, and Video from Class
 
+* [Notes](https://github.com/momentum-team-7/notes/blob/main/python-lists-dicts-tuples.md)
 * [Code](https://github.com/momentum-team-7/examples/tree/main/python/intro-notebooks)
 * [Morning Class Recording](https://us02web.zoom.us/rec/share/rMrwJ0CILQdABXH1-sJ7VdxcZuQ_92lCE5liIzseflRh1n8_hrtVLP4_C3ciJtmE.Bl0iBDoQRXpK5UHe)
 Access Passcode: PLDfbD7+
