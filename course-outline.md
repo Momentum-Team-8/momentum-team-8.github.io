@@ -8,8 +8,6 @@ layout: default
 
 For the entire 16 weeks, we are in session each day between 9:30 am - 5:30 pm, with a 1-hour break expected for lunch. You are expected to be online and available during these hours.
 
-We will not have class during the Thanksgiving holidays (Weds Nov 25-Friday Nov 27).
-
 ## Class & Assignments
 
 ### Daily schedule
