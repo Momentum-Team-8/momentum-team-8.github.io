@@ -34,19 +34,11 @@ On Thursdays, you'll be given an assignment that will ask you to bring together 
 
 Weekend assignments are due on Monday morning before the start of class.
 
-## Office hours and one-on-one instruction
-
-Your instructor and/or other members of the instructional team will be available during lab times.
-
-You can reach out to us on Slack by using an `@` symbol followed by our name in the team channel (for instance, "@Amy Gori, when I run `git push origin main`, I get the following error...").
-
-The instructional team is:
-
-- Rebecca Conley
-- Amy Gori
-- Clinton Dreisbach
+## Getting in touch with Instructors
 
 Instructors are also available to meet with you on Zoom during lab times, individually, in groups, or in the co-working Zoom.
+
+You can reach out to us on Slack by using an `@` symbol followed by our name in the team channel (for instance, "@Amy Gori, when I run `git push origin main`, I get the following error...").
 
 ## Topics by phase
 
@@ -83,8 +75,10 @@ Topics for the first 8 weeks include, but are not limited to, the following. You
 
 ### Phase 3: Advanced Front-end or Advanced Back-end
 
-Each student chooses to learn more deeply in either front-end or back-end topics in this phase. You'll be asked to do more independent work alongside regular classroom meetings with your instructor as you learn to build more complex projects.
+In this phase, you have a choice to learn more in-depth front-end or back-end topics. If you choose front-end, you'll be learning to build applications using React, a JavaScript framework. Back-end students will learn to build APIs using Django REST Framework.
+
+You'll be asked to do more independent work alongside regular classroom meetings with your instructor as you learn to build more complex projects.
 
 ### Phase 4: Agile Development
 
-Students work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You'll be working independently under the close supervision of your instructor to meet tight deadlines. To graduate, you will present your project to a panel of members of the local tech community.
+Students work on small teams to design and build a complete, real-world software product using the practices of professional software developers. You'll be working independently under the close supervision of your instructor to meet tight deadlines. To graduate, you will present your project to members of the local tech community.
