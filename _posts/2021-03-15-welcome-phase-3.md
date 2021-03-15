@@ -75,7 +75,7 @@ _These are required readings, videos, and/or podcasts. Read, watch, or listen, *
 
 - 📖 [Full Stack Python: Databases](https://www.fullstackpython.com/databases.html)
 - 📖 [Full Stack Python: Deployment](https://www.fullstackpython.com/deployment.html)
-- 📺 [Deploying Django Apps to Heroku](https://devcenter.heroku.com/articles/deploying-python)
+- 📖 [Deploying Django Apps to Heroku](https://devcenter.heroku.com/articles/deploying-python)
 - 🎧 [Deploying and Running Django Web Apps in 2021](https://talkpython.fm/episodes/show/301/deploying-and-running-django-web-apps-in-2021)
 - 📖 [Python Debugging with Pdb](https://realpython.com/python-debugging-pdb/) \*optional
 - 📺 [Damilare Onajole, Debugging Python](https://pyvideo.org/pycon-nigeria-2018/debugging-python-applications-for-profit.html) \*optional
