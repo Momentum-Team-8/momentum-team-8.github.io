@@ -28,3 +28,8 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 - [DevsForHire!](https://github.com/momentum-team-7/example-react-devs-for-hire)
 - [MDN React Todo List Walk-through](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
 - [Just show me the code for the MDN Todo List](https://github.com/mdn/todo-react)
+
+## 🎥 Video
+
+- [Short screencast on key prop in DevsForHire](https://www.loom.com/share/f539f7647f91437fa23496ffa066a591)
+- [Short screencast on splitting into separate files in DevsForHire](https://www.loom.com/share/709e394e0ce14acc867c409e15bb27d2)
