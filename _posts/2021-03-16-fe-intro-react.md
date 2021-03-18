@@ -33,3 +33,7 @@ If you finish this and want to keep going, try one of these other tutorials:
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - video-driven, very complete
 - [The official React tutorial](https://reactjs.org/tutorial/tutorial.html) - classic, official. Uses class-based components, which are a bit older, but still widely used
 - [Dave Ceddia's React tutorial](https://daveceddia.com/react-getting-started-tutorial/) - very long, very comprehensive
+
+## 🦉 Code from class
+
+- [The most minimalist React app ever](https://github.com/momentum-team-7/example-react-hello-world)

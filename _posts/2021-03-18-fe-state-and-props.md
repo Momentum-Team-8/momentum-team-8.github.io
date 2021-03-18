@@ -25,6 +25,6 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 
 ## 👨‍💻 Code Examples
 
-- [DevsForHire!](https://github.com/momentum-team-7/) -> we'll write this in class and the link will be updated once the code is pushed!
+- [DevsForHire!](https://github.com/momentum-team-7/example-react-devs-for-hire)
 - [MDN React Todo List Walk-through](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning)
 - [Just show me the code for the MDN Todo List](https://github.com/mdn/todo-react)
