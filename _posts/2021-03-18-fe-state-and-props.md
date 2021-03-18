@@ -31,6 +31,6 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 
 ## 🎥 Video
 
-- [Class video](https://us02web.zoom.us/rec/share/P18e_p6-vtPagvPb8JdsqF_PVmBFyNcB5_fMbKo0KsDWXL5R47mHcW_kfPoxRpJk.npaA4p12-uAzmxLO?startTime=1616074063000)
+- [Class video](https://us02web.zoom.us/rec/share/P18e_p6-vtPagvPb8JdsqF_PVmBFyNcB5_fMbKo0KsDWXL5R47mHcW_kfPoxRpJk.npaA4p12-uAzmxLO?startTime=1616074063000) Passcode: g0rR=iEP
 - [Short screencast on key prop in DevsForHire](https://www.loom.com/share/f539f7647f91437fa23496ffa066a591)
 - [Short screencast on splitting into separate files in DevsForHire](https://www.loom.com/share/709e394e0ce14acc867c409e15bb27d2)
