@@ -23,6 +23,12 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 - [React Mental Model](https://learnreact.design/posts/react-mental-model-html-input)
 - [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
 
+## 🔖 Resources
+
+- [Conditional Rendering in React](https://www.robinwieruch.de/conditional-rendering-react)
+- [Handling Events in React](https://reactjs.org/docs/handling-events.html)
+- [Supported Events in React](https://reactjs.org/docs/events.html#supported-events)
+
 ## 👨‍💻 Code Examples
 
 - [DevsForHire!](https://github.com/momentum-team-7/example-react-devs-for-hire)
