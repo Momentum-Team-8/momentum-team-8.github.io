@@ -38,5 +38,17 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 ## 🎥 Video
 
 - [Class video](https://us02web.zoom.us/rec/share/P18e_p6-vtPagvPb8JdsqF_PVmBFyNcB5_fMbKo0KsDWXL5R47mHcW_kfPoxRpJk.npaA4p12-uAzmxLO?startTime=1616074063000) Passcode: g0rR=iEP
-- [Short screencast on key prop in DevsForHire](https://www.loom.com/share/f539f7647f91437fa23496ffa066a591)
-- [Short screencast on splitting into separate files in DevsForHire](https://www.loom.com/share/709e394e0ce14acc867c409e15bb27d2)
+
+### 🧶 Loom screencasts
+
+I made some short topic videos walking through doing some more stuff with the DevsForHire app.
+
+- [1 - Key prop](https://www.loom.com/share/f539f7647f91437fa23496ffa066a591)
+- [2 - Splitting App into a separate file](https://www.loom.com/share/709e394e0ce14acc867c409e15bb27d2)
+- [3- Include a stylesheet for your component](https://www.loom.com/share/c3637aacab084024814406dab2e10653)
+- [4 - State as an array of objects](https://www.loom.com/share/01c5f5f20f7d4128bf57f3fb3c2d2408)
+- [5 - React conditionally rendering JSX inside a map callback](https://www.loom.com/share/7812942929e44f6cb0f587acc707dbd1)
+- [6 - React ternary conditional for className](https://www.loom.com/share/f1205b3636634ef0aeba33d2c5212116)
+- [7 - React onClick with a handler function from parent component, Part 1 ](https://www.loom.com/share/e37ff5d32c2043839424ffe455626509)
+- [8 - React onClick with a handler function from parent component, part 2](https://www.loom.com/share/843a6b30d32f456788ae9b6c603caeee)
+- [9 - React onClick with a handler function from parent component, part 3](https://www.loom.com/share/cd85e3c753684978ba13183c2537acea)
