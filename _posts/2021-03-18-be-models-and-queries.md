@@ -38,3 +38,4 @@ This section is material to prep for our next topic, building APIs.
 - [Django Model Managers](https://docs.djangoproject.com/en/3.1/topics/db/managers/#django.db.models.Manager)
 - [Django docs: combining Aggregations with other QuerySets](https://docs.djangoproject.com/en/3.1/topics/db/aggregation/#s-aggregations-and-other-queryset-clauses)
 - [SQL Basics: Learn x in y minutes](https://learnxinyminutes.com/docs/sql/) -> this may be helpful to skim for familiarity with SQL when you run into it. You do not need to write SQL because the Django ORM does it for you, and it does it well. But most developers can drop into SQL if they need to work with the database directly.
+- [ERD sketch from class](https://excalidraw.com/#json=5222478829846528,ZaSiVCjIW5r7ZeJUJC5YPA)
