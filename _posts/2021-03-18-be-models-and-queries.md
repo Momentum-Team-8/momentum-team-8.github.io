@@ -15,7 +15,7 @@ tags: phase-3 back-end
 - [Lookup expressions with `.filter()`](https://docs.djangoproject.com/en/3.1/topics/db/queries/#field-lookups)
 - [Lookups that span relationships](https://docs.djangoproject.com/en/3.1/topics/db/queries/#lookups-that-span-relationships)
 - [Complex lookups with Q](https://docs.djangoproject.com/en/3.1/topics/db/queries/#complex-lookups-with-q-objects)
-- [Related objects](https://docs.djangoproject.com/en/3.1/topics/db/queries/#related-objects)
+- [Lookups with Related objects](https://docs.djangoproject.com/en/3.1/topics/db/queries/#related-objects)
 - [Aggregate & Annotate](https://docs.djangoproject.com/en/3.1/topics/db/aggregation/)
 
 ## 🎯 Project: Continue Habit Tracker
