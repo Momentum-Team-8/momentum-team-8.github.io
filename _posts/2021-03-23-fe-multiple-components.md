@@ -6,11 +6,11 @@ tags: phase-3 phase-3-fe react
 
 Today is focused on using multiple components and conditional rendering to create multiple views of your application.
 
-## Assignment
+## 🎯 Project
 
 Continue React Trivia. For Thursday, make your trivia categories selectable. When selected, you should show at least 10 questions for that category. If you can, go ahead and show answers and perhaps even make them selectable.
 
-## Resources
+## 🔖 Resources
 
 - [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
 - [React Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)

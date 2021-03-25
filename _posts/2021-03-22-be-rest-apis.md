@@ -39,3 +39,4 @@ Some tips about the DRF Tutorial to keep in mind:
 
 - [Django REST Framework Documentation](https://www.django-rest-framework.org/)
 - [An overview of HTTP - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [HTTP verbs/CRUD/SQL & REST urls notes](https://docs.google.com/document/d/14nBPDt05rO7tFK3Pphq_CjjQhxLVmW3uNmncA7z88RY/edit?usp=sharing)
