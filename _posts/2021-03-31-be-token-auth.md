@@ -21,12 +21,25 @@ Keep on with QuestionBox! You should be able to return questions and answers at 
 
 ## 🔖 Resources
 
+#### Permissions
+
+- [DRF Permissions](https://www.django-rest-framework.org/api-guide/permissions/)
+- [Pro-Tip: Logical operators with DRF Permissions](https://www.revsys.com/tidbits/tip-about-drf-permissions/)
+
+#### Authentication
+
 - [Djoser documentation](https://djoser.readthedocs.io/en/latest/)
 - [DRF docs: Token-based authentication](https://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication)
 - [The Ultimate Tutorial for Django REST Framework: Login and Authentication](https://sunscrapers.com/blog/django-rest-framework-login-and-authentication/)
+
+#### CORS
+
 - [MDN CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
   - [MDN Access-Control-Allow-Origin Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin)
   - [Julia Evans comic explaining CORS better than MDN does](https://twitter.com/b0rk/status/1162392625057583104?lang=en)
+
+#### Filtering and search
+
 - [DRF - Filtering](https://www.django-rest-framework.org/api-guide/filtering/) -> Pretty useful reference. Includes how to filter your output based on GET parameters, which you will want to do for using search terms.
 - [Django docs: full-text search & the search lookup](https://docs.djangoproject.com/en/3.1/ref/contrib/postgres/search/#the-search-lookup)
 - [Blog post with more on full-text search](https://www.netlandish.com/blog/2020/06/22/full-text-search-django-postgresql/)
