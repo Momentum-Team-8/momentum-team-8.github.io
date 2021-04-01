@@ -24,7 +24,7 @@ We will attend this virtually but share the experience live over Slack in the `#
 
 This week you will begin work on a project with both front- and back-end teammates. This project is due at the end of the Phase.
 
-The front-end will build React application that will make requests to the back-end application built with Django and Django REST Framework. There are no strict rules about who works on front end or back end, so your team can decide how best to use your resources.
+The front-end will build a React application that will make requests to the back-end application built with Django and Django REST Framework. There are no strict rules about who works on front end or back end, so your team can decide how best to use your resources.
 
 Your team can choose between two projects. You should choose the one that seems most interesting to you. They will _both_ give you practice doing what you have been doing (building an API or building a React application based around CRUD functionality) but they present some different problems to solve. Choose the one that sounds more fun to you.
 
