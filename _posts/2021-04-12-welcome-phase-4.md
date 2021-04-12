@@ -18,9 +18,10 @@ The experience of working on a team during this phase and the product you build 
 - Forming final project groups
 - Brainstorming product ideas
 
-### TODO before 1:00 pm
+## Project Teams!
 
-Please fill out [this form](https://forms.gle/s1DfRynUwUVq2AwN9) so we can assign people to teams. This form is **completely confidential**.
+- Cam, Dawud, Grant, Laura, Tip
+- Albany, Arthur, Ben, Tatiana, Tristan
 
 ## Slides
 
