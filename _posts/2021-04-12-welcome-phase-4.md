@@ -18,7 +18,7 @@ The experience of working on a team during this phase and the product you build 
 - Forming final project groups
 - Brainstorming product ideas
 
-## Project Teams!
+## Final Project Teams!
 
 - Cam, Dawud, Grant, Laura, Tip
 - Albany, Arthur, Ben, Tatiana, Tristan
