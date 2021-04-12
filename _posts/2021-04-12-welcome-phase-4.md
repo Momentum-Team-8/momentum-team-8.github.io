@@ -30,6 +30,15 @@ Please fill out [this form](https://forms.gle/s1DfRynUwUVq2AwN9) so we can assig
 
 ## 🔖 Resources
 
+#### Idea Generation 💡
+
+- [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- [awesome-django](https://github.com/wsvincent/awesome-django)
+- [awesome-python](https://github.com/vinta/awesome-python)
+- [public apis](https://github.com/public-apis/public-apis)
+- [data is plural](https://www.data-is-plural.com/)
+
 #### Agile Development
 
 - [Beginner's Guide to Scrum and Agile](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
