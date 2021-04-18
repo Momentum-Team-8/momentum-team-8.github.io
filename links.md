@@ -30,6 +30,8 @@ layout: default
 - [Course outline & info]({% link course-outline.md %})
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
-## Presentations
+## Presentations & Phase 4
 
 - [End-of-phase technical presentations guidelines]({% link technical-presentations.md %})
+- [Phase 4 Final week schedule]({% link phase-4-schedule.md %})
+- [Final presentations prep guide]({% link phase-4-demo-guide.md %})
