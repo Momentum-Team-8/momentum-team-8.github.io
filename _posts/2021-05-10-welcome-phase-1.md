@@ -62,6 +62,5 @@ Your link should look similar to this, with a different number at the end: `http
 
 - [command line notes](https://github.com/momentum-team-7/notes/blob/main/command-line.md)
 - [git notes](https://github.com/momentum-team-7/notes/blob/main/git.md)
-- [Morning Video](https://us02web.zoom.us/rec/share/gzo2a9obAPqwnbKpHqyyNIcE32CLF9qe56UpWKOQPDskhO_xHEIXJb_42irZrRsH.ZN96WzXV980gx7jm)
 
 Access Passcode: d?Jy2yV*
