@@ -60,7 +60,6 @@ Your link should look similar to this, with a different number at the end: `http
 
 ## 🦉 Code, Notes & Videos
 
-- [command line notes](https://github.com/momentum-team-7/notes/blob/main/command-line.md)
-- [git notes](https://github.com/momentum-team-7/notes/blob/main/git.md)
+- [command line notes](https://github.com/momentum-team-8/notes/blob/main/command-line.md)
+- [git notes](https://github.com/momentum-team-8/notes/blob/main/git.md)
 
-Access Passcode: d?Jy2yV*

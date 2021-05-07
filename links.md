@@ -13,25 +13,19 @@ layout: default
 
 ## Zoom
 
-- [Zoom classroom for Phase 3](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz099)
+- [Zoom classroom for Phase 1](https://us02web.zoom.us/j/85432264511?pwd=NWJ4K3hWU0pkMWlKMHhZQUpwRTJNUT09)
 - [Zoom co-working room, open to all current students](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09) -- Our virtual shared space, open to students on all teams in every phase
   - Meeting ID: 705 824 048
   - Passcode: 573244
 
 ## GitHub
 
-- [Class GitHub organization](https://github.com/momentum-team-7) -- all your assignment repos are located here
-  - [code examples from class](https://github.com/momentum-team-7/examples)
-  - [notes/slides from class](https://github.com/momentum-team-7/notes)
+- [Class GitHub organization](https://github.com/momentum-team-8) -- all your assignment repos are located here
+  - [code examples from class](https://github.com/momentum-team-8/examples)
+  - [notes/slides from class](https://github.com/momentum-team-8/notes)
 
 ## General References
 
 - [Foundations Course](https://foundations.momentumlearn.com/)
 - [Course outline & info]({% link course-outline.md %})
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
-
-## Presentations & Phase 4
-
-- [End-of-phase technical presentations guidelines]({% link technical-presentations.md %})
-- [Phase 4 Final week schedule]({% link phase-4-schedule.md %})
-- [Final presentations prep guide]({% link phase-4-demo-guide.md %})
