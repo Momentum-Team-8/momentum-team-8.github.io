@@ -58,8 +58,7 @@ Your link should look similar to this, with a different number at the end: `http
 - [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git Command Explorer](https://gitexplorer.com/) -- this tool lets you look up commands by what you are trying to do
 
-## 🦉 Code, Notes & Videos
+## 🦉 Code & Notes
 
 - [command line notes](https://github.com/momentum-team-8/notes/blob/main/command-line.md)
 - [git notes](https://github.com/momentum-team-8/notes/blob/main/git.md)
-
