@@ -30,4 +30,5 @@ tags: phase-1 javascript js arrays
 
 ## 🦉 Code & Notes
 
-- [JavaScript Arrays notes](https://github.com/momentum-team-6/notes/blob/main/js-arrays.md)
+- [JavaScript Arrays notes](https://github.com/momentum-team-8/notes/blob/main/js-arrays.md)
+- [Code examples from class](https://github.com/Momentum-Team-8/example-js-arrays)
