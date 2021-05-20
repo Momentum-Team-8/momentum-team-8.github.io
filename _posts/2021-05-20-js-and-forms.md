@@ -34,4 +34,4 @@ tags: phase-1 javascript js forms validation
 
 ## 🦉 Code, Notes & Videos
 
-- [forms notes](https://github.com/momentum-team-7/notes/blob/main/web-forms.md)
+- [forms notes](https://github.com/Momentum-Team-8/notes/blob/main/web-forms.md)
