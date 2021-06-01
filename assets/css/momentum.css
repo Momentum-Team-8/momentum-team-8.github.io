@@ -80,3 +80,34 @@ h6 {
 .img--post {
   width: 45%;
 }
+
+/* CSS specific to posts for this team */
+
+#team-peregrine-falcon + p > img,
+#team-american-kestrel + p > img,
+#team-merlin + p > img {
+  border-radius: 50%;
+  height: 100px;
+}
+
+#team-peregrine-falcon + p,
+#team-american-kestrel + p,
+#team-merlin + p {
+  float: left;
+}
+
+h3#team-peregrine-falcon,
+h3#team-american-kestrel,
+h3#team-merlin {
+  clear: left;
+  padding-top: 30px;
+}
+
+.js-team-li {
+  margin-left: 150px;
+}
+
+h3#team-merlin ~ h2 {
+  clear: left;
+  padding-top: 30px;
+}
