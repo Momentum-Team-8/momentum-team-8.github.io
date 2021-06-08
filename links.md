@@ -28,4 +28,7 @@ layout: default
 
 - [Foundations Course](https://foundations.momentumlearn.com/)
 - [Course outline & info]({% link course-outline.md %})
+- [Our Student Guidelines: Getting Help](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md#getting-help)
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
+- [Julia Evans, How To Ask Good Questions](https://jvns.ca/blog/good-questions/)
+- [Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck](https://dev.to/rukiaasm/working-smarter-5-steps-to-getting-unstuck-with-rukia-sheikh-mohamed-1932)
