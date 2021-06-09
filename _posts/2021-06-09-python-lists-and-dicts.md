@@ -18,7 +18,22 @@ tags: phase-2 python list-comprehensions dictionaries
 
 ## 🎯 Project
 
-Continue yesterday's project, **_Word Frequency_**. A dictionary will help you solve the problem of counting words.
+Continue yesterday's project, **_Word Frequency_**. A **dictionary** will help you solve the problem of counting words.
+
+At _minimum_ you should be able to count words and print that count, even if the formatting of your output is not 100% on point.
+
+## Working groups for tonight
+
+Don't struggle through code by yourself! Work together with these folks so you can get to the finish line with Word Frequency.
+
+```py
+groups = [
+  ['Sara', 'Dee', 'Roan'],
+  ['Greg', 'Brian', 'Emily'],
+  ['Shaune', 'Wendy', 'Robert'],
+  ['Logan', 'Quinten', 'Ellie'],
+]
+```
 
 ## 🔖 Resources
 
