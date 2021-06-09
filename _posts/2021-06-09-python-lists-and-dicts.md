@@ -47,3 +47,4 @@ groups = [
 
 - [Notes](https://github.com/Momentum-Team-8/notes/blob/main/python-lists-dicts-tuples.md)
 - [Intro to Python notebooks](https://github.com/Momentum-Team-8/python-notebooks) (**Notebooks 8-11**)
+- [Example from class: dictionaries](https://github.com/Momentum-Team-8/examples/blob/main/dictionaries.py)
