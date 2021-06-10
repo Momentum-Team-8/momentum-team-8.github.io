@@ -47,7 +47,20 @@ Don't forget to use your print statements to give you necessary information as y
 
 ## 🎯 Project
 
+This is due on Monday morning.
+
 [Mystery Word](https://classroom.github.com/a/1m2RI4dj)
+
+### Weekend Project Groups
+
+```
+groups = [
+  ['Ellie', 'Dee', 'Logan'],
+  ['Roan', 'Sara', 'Robert'],
+  ['Wendy', 'Quinten', 'Brian'],
+  ['Emily', 'Greg', 'Shaune']
+]
+```
 
 ## 🔖 Resources
 
