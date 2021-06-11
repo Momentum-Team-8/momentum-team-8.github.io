@@ -67,7 +67,3 @@ groups = [
 - [What does `if __name__ == "__main__"` do?](https://github.com/momentumlearn/student-resources/blob/master/articles/pymain.md)
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [RealPython: Modules and Packages](https://realpython.com/python-modules-packages/): _We'll get more into packages next week, so just read through the section on modules for now._
-
-## 🦉 Code & Notes
-
-- [Mystery Word starter code](https://github.com/momentum-team-8/examples/tree/master/py_mystery_word_starter)
