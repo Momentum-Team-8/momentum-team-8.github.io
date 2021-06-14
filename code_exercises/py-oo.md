@@ -5,34 +5,44 @@ layout: default
 
 ## Define a User class and create user objects
 
-Create a new python file and name it whatever you want. Write all the following code in that file.
+### Step 0
 
-For each step, before you move on to the next step, be sure you can create a new instance of your User class and see it printed to stdout or in the python shell.
-
+Create a new python file and name it whatever you want. This is where you will write the code that follows.
 
 ### Step 1
 
-Make a class named `User`. Add the following attributes to your class:
+Make a class named `User`. Add the following attributes to your class (in the `__init__()` method):
 
 - `name`
 - `email`
 - `city`
 - `state`
 
-Create two different user instances using your class. How can you check their different attributes?
+Create two different user instances using your class and save them to variables (something like `user1` and `user2`). When you run your file, it should print out info about each user like the following:
+
+```
+Anton lives in Durham, NC.
+Cecil lives in San Francisco, CA.
+
+```
 
 ### Step 2
 
-Add a `__str__` method to your class that displays the identity and attributes of an instance.
+Add a `__str__` method to your class that displays the identity and attributes of an instance when it is printed.
 
-#### example
+#### step 2 example
 
 Say you have a `Game` class; the `__str__` method could look like this (although there are lots of other options!):
 
 ```python
 def __str__(self):
     return f"<Game score={self.score} tries={self.tries}>"
+```
 
+If you print a game instance with that `__str__()` method (for example, `print(game1)`), the output should look like this:
+
+```python
+<Game score=0 tries=8>
 ```
 
 ### Step 3
