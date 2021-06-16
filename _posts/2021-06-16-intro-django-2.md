@@ -8,7 +8,20 @@ Today we'll continue our intro to Django.
 
 ## 🎯 Project
 
-Continue with Django Girls.
+Today we'll expand our perspective on Django and see more of it in action with a larger application. This project is due Friday morning.
+
+This assignment asks you to modify existing code to augment its functionality. **Please work on this assignment in small groups**:
+
+```py
+groups = [
+  ('Quinten', 'Wendy', 'Robert'),
+  ('Sara', 'Roan', 'Logan'),
+  ('Dee', 'Shaune', 'Emily'),
+  ('Brian', 'Greg')
+]
+```
+
+[Django Uptact](https://classroom.github.com/a/BRINBhJI)
 
 ## 🔖 Resources
 
@@ -24,3 +37,7 @@ Continue with Django Girls.
 ## 🦉 Code & Notes
 
 - [Notes - Tour of a Django App](https://github.com/momentum-team-8/notes/blob/main/django-tour.md)
+
+```
+
+```
