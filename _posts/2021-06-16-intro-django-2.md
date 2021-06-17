@@ -25,6 +25,7 @@ groups = [
 
 ## 🔖 Resources
 
+- [Database Design Tutorial](https://learndjango.com/tutorials/database-design-tutorial-beginners)
 - [MDN: Django Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
 - [Official Django documentation](https://docs.djangoproject.com/en/3.2/)
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/#django-girls-tutorial)
