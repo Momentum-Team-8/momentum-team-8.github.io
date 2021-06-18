@@ -10,6 +10,8 @@ For this weekend assignment, keep working with your code buddies from this week.
 
 Build a CRUD application from scratch. This app should let you catalog your music collection.
 
+This is due on **Monday**.
+
 [Django Music](https://classroom.github.com/a/F4evQbtq)
 
 ```py
