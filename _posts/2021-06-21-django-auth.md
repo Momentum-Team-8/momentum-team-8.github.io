@@ -46,3 +46,7 @@ groups=[
 - [💥 Django Cheatsheet!](https://github.com/lucrae/django-cheat-sheet)
 - [Django Best Practices: Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
 - [Django docs: Specifying a Custom User Model](https://docs.djangoproject.com/en/3.2/topics/auth/customizing/#specifying-a-custom-user-model)
+
+## 🦉 Code
+
+- [Example Django Music](https://github.com/Momentum-Team-8/example-django-music)
