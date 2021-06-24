@@ -8,7 +8,7 @@ Today we'll begin our first real team project, with a shared repo. This will req
 
 ## 🎯 Project: Django Duplex
 
-You will work in a shared repo for this and turn in one application that your team will build together. How you share the work is up to you to determine.
+You will work in a shared repo for the first time and turn in one application that your team will build together. How you share the work is up to you to determine.
 
 You have two options to choose from for this assignment. Your team should meet to discuss and **decide today** which one you will do. Then, the very first thing you should do is decide what models you will need and what attributes and relationships they should have.
 
@@ -37,3 +37,4 @@ teams = {
 - [Django cheat sheet](https://github.com/lucrae/django-cheat-sheet) -> This is the same one I posted earlier in the week. If you didn't see it then, you might be glad to see it now.
 - [makeareadme.com](https://www.makeareadme.com/)
 - [A great example of a README and a cool project](https://github.com/minter/tesla_puck)
+- [CRC model](http://agilemodeling.com/artifacts/crcModel.htm) -> The Class-Responsibility-Collaborator model helps you to reason about how you should design your models.
