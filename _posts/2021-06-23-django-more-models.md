@@ -30,6 +30,7 @@ Your FreeShelf project is due on Thursday morning.
 - [Django Slug Tutorial](https://learndjango.com/tutorials/django-slug-tutorial)
 - [Django Docs: Built-in Template Tags and Filters](https://docs.djangoproject.com/en/3.0/ref/templates/builtins/)
 
-# 🦉 Code
+# 🦉 Code & Notes
 
 - [Music app with auth and more models](https://github.com/Momentum-Team-8/example-django-music)
+- [Many-to-Many Diagram](https://github.com/Momentum-Team-8/notes/blob/main/many-to-many.md)
