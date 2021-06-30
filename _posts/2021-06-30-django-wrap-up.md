@@ -22,20 +22,20 @@ Interviews take place on Thursday during our normal class time, 2:00-3:30.
 
 ### Honey Badgers and Pine Martens meet with Amy
 
-2:00 Sara
-2:15 Dee
-2:30 Quinten
-2:45 Robert
-3:00 Greg
-3:15 Emily
+- 2:00 Sara
+- 2:15 Dee
+- 2:30 Quinten
+- 2:45 Robert
+- 3:00 Greg
+- 3:15 Emily
 
 ### Wolverines and Sea Otters meet with Jeanette
 
-2:00 Brian
-2:15 Wendy
-2:30 Shaune
-2:45 Roan
-3:00 Logan
+- 2:00 Brian
+- 2:15 Wendy
+- 2:30 Shaune
+- 2:45 Roan
+- 3:00 Logan
 
 ## 🔖 Resources
 
