@@ -18,7 +18,15 @@ Thursday morning we will not have class. You should use that time to finish work
 
 For this phase we will ask you to meet with an instructor one-on-one to talk about your code instead of presenting to an audience. We'll ask you a few questions about Python, Django and the project you have been working on.
 
-Interviews take place on Thursday during our normal class time, 2:00-3:30.
+### Technical Questions
+
+These are literally the questions we're going to ask you:
+
+1. Walk us through what happens in Django when someone types a url like `www.djangoapp.com/card/2/edit` into a browser's address bar.
+2. Open the django shell and select an object from your database, then get its related objects (we'll ask you different specifics here depending on what your models are).
+3. Show me a template that uses conditional rendering and explain how that works.
+
+**Interviews take place on Thursday during our normal class time, 2:00-3:30.** Please come to the classroom and we'll use breakout rooms for our separate meetings.
 
 ### Honey Badgers and Pine Martens meet with Amy
 
