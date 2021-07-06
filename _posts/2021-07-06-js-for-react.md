@@ -17,8 +17,8 @@ _You are not required to turn in a lab assignment (Yay!), although you are encou
 
 ```py
 pairs = [
-  ('Brian', 'Logan'),
-  ('Greg', 'Shaune'),
+  ('Shaune', 'Logan'),
+  ('Greg', 'Brian'),
   ('Sara', 'Roan'),
 ]
 ```
