@@ -1,9 +1,8 @@
 ---
 layout: post
-title: '🦊 Front-end: Get to Know React 🦊'
+title: '⚛ Front-end: Get to Know React ⚛'
 tags: phase-3 phase-3-fe javascript
 ---
-
 ## Topics
 
 - Intro to React
