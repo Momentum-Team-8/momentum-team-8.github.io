@@ -26,7 +26,7 @@ Make sure you have the following set up in your local environment:
 
 [Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/). This will show you the most modern way to build React apps. This project will be in Git, but you will use a repository you make.
 
-** Please submit a link to the repository you create for this tutorial here: (https://forms.gle/JPTMnnHWa1PnLSpk9) ** 
+** Please submit a link to the repository you create for this tutorial here: [https://forms.gle/JPTMnnHWa1PnLSpk9](https://forms.gle/JPTMnnHWa1PnLSpk9) ** 
 
 If you finish this and want to keep going, try one of these other tutorials:
 
