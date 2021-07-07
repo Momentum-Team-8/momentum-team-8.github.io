@@ -33,3 +33,4 @@ There are examples for a lot of what you need to do in the Django Recipes codeba
 ## 🦉 Code & Notes
 
 - [Django Recipes App](https://github.com/Momentum-Team-8/example-django-recipes)
+- [Habit Tracker ERD]({% link assets/img/habit-tracker-erd.png %})
