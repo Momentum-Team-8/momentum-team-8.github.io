@@ -15,7 +15,7 @@ tags: phase-3 phase-3-fe react
 
 Today, you'll start on your first React app without a tutorial. This is due on Monday.
 
-[React Freeshelf](https://classroom.github.com/a/hMMj_lpt)
+[React Freeshelf](https://classroom.github.com/a/Y6B_cDDW)
 
 ```
 groups = [
