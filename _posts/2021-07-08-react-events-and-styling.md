@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '🦊 Front-end: React Event Handling and Styling 🦊'
+title: '⚛ Front-end: React Event Handling and Styling ⚛'
 tags: phase-3 phase-3-fe react
 ---
 
