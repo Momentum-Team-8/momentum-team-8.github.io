@@ -40,7 +40,7 @@ This section is material to prep for the topic we will begin next week: building
 - [Pretty Printed Video: How to Use Annotate in Django](https://youtu.be/KbwmdKl-QbI)
 - [Django docs:Aggregate & Annotate](https://docs.djangoproject.com/en/3.2/topics/db/aggregation/)
 - [Django docs: Combining Aggregations with other QuerySets](https://docs.djangoproject.com/en/3.2/topics/db/aggregation/#s-aggregations-and-other-queryset-clauses)
-- [Aggregation Functions](https://docs.djangoproject.com/en/3.1/ref/models/querysets/#aggregation-functions) (e.g., `Avg`, `Count`, `Min`, `Max`)
+- [Aggregation Functions](https://docs.djangoproject.com/en/3.2/ref/models/querysets/#aggregation-functions) (e.g., `Avg`, `Count`, `Min`, `Max`)
 
 ### 🦉 Code & Notes
 
