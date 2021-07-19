@@ -19,7 +19,9 @@ The backend will create its own repo and the front end will create its own repo,
 
 ### Teams
 
-**Team assignments TBD.**
+Team Kraken = [Emily, Dee, Roan, Shaune]
+Team Sasquatch = [Wendy, Quentin, Sara, Greg]
+Team Mothman = [Wendy, Quentin, Logan, Brian]
 
 One suggestion to consider: choose a team lead to act as a guide for your group. This person shouldn't be "in charge," but can serve as the decision-maker or tie-breaker if you're torn between different approaches to a problem. This can help speed you up.
 
