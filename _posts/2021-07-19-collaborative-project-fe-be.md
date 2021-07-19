@@ -18,10 +18,11 @@ The backend will create its own repo and the front end will create its own repo,
 **When you start work in this repo, you should delete the README at the root.** You can save it somewhere else -- it's just a Markdown file. Then when you start your Django or React app, you should **install your app at the root of the repo directory, not in a subdirectory** (you do this by specifying the current directory with a `.` instead of a project name). This will make deploying easier.
 
 ### Teams
-
+```
 Team Kraken = [Emily, Dee, Roan, Shaune]
 Team Sasquatch = [Wendy, Quentin, Sara, Greg]
 Team Mothman = [Wendy, Quentin, Logan, Brian]
+```
 
 One suggestion to consider: choose a team lead to act as a guide for your group. This person shouldn't be "in charge," but can serve as the decision-maker or tie-breaker if you're torn between different approaches to a problem. This can help speed you up.
 
