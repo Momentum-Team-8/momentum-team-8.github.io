@@ -23,3 +23,4 @@ Your project will be due at the end of the Phase, one week from this Thursday.
 - [How to Save Extra Data to a DRF Serializer](https://simpleisbetterthancomplex.com/tutorial/2019/04/07/how-to-save-extra-data-to-a-django-rest-framework-serializer.html)
 - [DRF Permissions](https://testdriven.io/blog/drf-permissions/)
 - [Built-in Permission Classes in DRF](https://testdriven.io/blog/built-in-permission-classes-drf/)
+- [Custom Permissions in DRF](https://testdriven.io/blog/custom-permission-classes-drf/)
