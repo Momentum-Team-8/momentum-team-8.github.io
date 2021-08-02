@@ -20,7 +20,7 @@ The experience of working on a team during this phase and the product you build 
 
 ## Slides
 
-- [Phase Overview](https://drive.google.com/file/d/1hZ6gOOjqC60T1fvnXlNKBQBeX1PTHL71/view?usp=sharing)
+- [Phase Overview](https://drive.google.com/file/d/1wuwOF6LINh47GZu3XAsQWFImekWCvci9/view?usp=sharing)
 - [Agile Development](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=sharing)
 - [Coming up with your idea](https://drive.google.com/file/d/1vLEOotRpy3s_scOP6hLOwntxkzZp__on/view?usp=sharing)
 
