@@ -15,8 +15,8 @@ tags: phase-4 agile tasks trello
 
 Your team's trello board is ready with columns predefined to start you off. You are welcome to adapt it and create additional columns to support the way your team works.
 
-- [Team Beans 🍻](https://trello.com/invite/b/psuQrMSb/21ee37f43414242c47c4a847da9e66fb/team-beans)
-- [Team Sledg](https://trello.com/invite/b/sYPQyZ0i/6857aa7f5ceb5fc72a25e2e2fd6ffde6/team-sledg)
+- [Team Beans 🥜](https://trello.com/invite/b/psuQrMSb/21ee37f43414242c47c4a847da9e66fb/team-beans)
+- [Team Sledg 🔨](https://trello.com/invite/b/sYPQyZ0i/6857aa7f5ceb5fc72a25e2e2fd6ffde6/team-sledg)
 
 ## Slides
 
