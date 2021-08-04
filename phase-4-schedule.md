@@ -25,6 +25,7 @@ layout: default
   - 11:45 am - 12:45 Team SLEDG
   - 3:30 pm - 4:30 pm Team Beans
 - **All-team peer review session Friday August 20 @2:00pm**
+
 ## Final Week
 
 ### Monday August 23
